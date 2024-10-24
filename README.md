@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @mcwlgzs
+![image](https://github.com/user-attachments/assets/d98847fe-ef43-4065-8a72-c5445e73edd6)- 👋 Hi, I’m @mcwlgzs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Typing SVG
+📈 Language & Framework & Database
 
-<!---
-mcwlgzs/mcwlgzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PHP JavaScript TypeScript Python C# C++ Java Kotlin Dart Flutter Vue.js Vite Electron MySQL Sqlite
+
+📈 OS & IDE
+
+Android Windows_11 Linux OpenWrt Visual_Studio VSCode IDEA PHPStorm Arduino_IDE Android_Studio
+
+📈 Other Skills
+
+GIT QGIS Wireshark Arduino Photoshop After affects Premiere Pro
