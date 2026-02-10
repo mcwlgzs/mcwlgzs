@@ -23,11 +23,7 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://fastly.jsdelivr.net/gh/mcwlgzs/mcwlgzs@output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://fastly.jsdelivr.net/gh/mcwlgzs/mcwlgzs@output/github-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://fastly.jsdelivr.net/gh/mcwlgzs/mcwlgzs@output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mcwlgzs&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
