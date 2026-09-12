@@ -3,7 +3,7 @@
 独立开发者，沐辰网络（AMUCHEN）创始人。
 
 <p align="center">
-  <a href="https://mcya.cn"><img src="https://img.shields.io/badge/博客-mcya.cn-blue?style=flat-square" /></a>
+  <a href="https://i.bie.cc"><img src="https://img.shields.io/badge/博客-i.bie.cc-blue?style=flat-square" /></a>
   <a href="https://amuchen.com"><img src="https://img.shields.io/badge/官网-amuchen.com-purple?style=flat-square" /></a>
   <a href="mailto:mcwlgzs@qq.com"><img src="https://img.shields.io/badge/邮箱-mcwlgzs@qq.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mcwlgzs&style=flat-square&color=blueviolet&label=访客数" />
@@ -15,7 +15,7 @@
 - 🛠️ 技术栈：HTML / CSS / Tailwind CSS / JavaScript / PHP / Python / Java
 - 🌱 持续学习中：前端工程化、全栈开发、AI 应用
 - 💬 欢迎交流 Web 开发、建站、开源项目相关话题
-- 🌐 博客：[mcya.cn](https://mcya.cn)
+- 🌐 博客：[i.bie.cc](https://i.bie.cc)
 
 ---
 
